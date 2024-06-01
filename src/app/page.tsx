@@ -355,7 +355,7 @@ export default function Homepage() {
                 <Image
                   src={Logo}
                   alt="Service Image"
-                  className="w-full h-56 object-cover"
+                  className="w-full h-60 object-cover"
                   width={500}
                   height={200}
                 />
